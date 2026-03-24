@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=mashsys&label=Visitor%20Count&color=37fa3f" alt="zeynepsudeimamoglu" /> 
+<img src="https://komarev.com/ghpvc/?username=sudeimamoglu&label=Visitor%20Count&color=37fa3f" alt="sudeimamoglu" /> 
 
 
 <h1 align="center">✨ Hi, I am Zeynep Sude</h1>
@@ -11,5 +11,5 @@ Hello, my name is Zeynep Sude and I am 19 years old. I started software developm
 
 ## 📈 Github Stats
 
-<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mashsys&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api/top-langs/?username=mashsys&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">
+<img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sudeimamoglu&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app//api/top-langs/?username=sudeimamoglu&show_icons=true&theme=dark&hide_border=true&layout=compact" width="%100" height="100%">

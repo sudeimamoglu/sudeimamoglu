@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=sudeimamoglu&color=ff69b4&style=for-the-badge" alt="Visitor Count"/>
+  <img src="https://komarev.com/ghpvc/?username=mashsys&color=ff69b4&style=for-the-badge" alt="Visitor Count"/>
 </div>
 
 <h1 align="center">✨ Hi, I'm Zeynep Sude</h1>
@@ -69,7 +69,7 @@ Welcome to my GitHub profile! I'm a dedicated software development student with 
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudeimamoglu&theme=radical&hide_border=true&background=1a1a2e&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mashsys&theme=radical&hide_border=true&background=1a1a2e&stroke=f39c12&ring=f39c12&fire=f39c12&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff"/>
 </div>
 
 ---
@@ -93,7 +93,7 @@ Welcome to my GitHub profile! I'm a dedicated software development student with 
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sudeimamoglu&theme=radical&hide_border=true&bg_color=1a1a2e&color=f39c12&line=f39c12&point=ffffff"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mashsys&theme=radical&hide_border=true&bg_color=1a1a2e&color=f39c12&line=f39c12&point=ffffff"/>
 </div>
 
 ---
